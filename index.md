@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Lukas's First CS193 Homework
+- I like that you can join any PSO (if needed) if you really need help with a question
+- I enjoy the simple slides and the jokes in class
+- I appreciate the staff's quick responses on Ed Discussion
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
